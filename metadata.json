@@ -1,0 +1,6 @@
+{
+  "name": "SafeGuard Digital",
+  "description": "Your guide to safe digital living with interactive lessons, realistic scam simulation, mentor chat, and scam reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
